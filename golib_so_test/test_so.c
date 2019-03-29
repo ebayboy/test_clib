@@ -1,6 +1,6 @@
 
 #include<stdio.h>
-#include"test_clib.h" 
+#include"libtest_clib.h" 
 
 void main(){
     hello();
